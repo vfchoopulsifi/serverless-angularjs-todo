@@ -1,3 +1,5 @@
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=serverless-todo&metric=bugs)](https://sonarcloud.io/dashboard?id=serverless-todo)
+
 # Purpose
 
 This repository contains a sample application to show the deployment of a serverless application hosted on AWS.
