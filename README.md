@@ -1,4 +1,6 @@
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=serverless-todo&metric=bugs)](https://sonarcloud.io/dashboard?id=serverless-todo)
+[![DepShield Badge](https://depshield.sonatype.org/badges/owner/repository/depshield.svg)](https://depshield.github.io)
+
 
 # Purpose
 
