@@ -22,7 +22,7 @@
     "chai": "^4.2.0",
     "claudia": "^5",
     "lambda-local": "^1.5.2",
-    "mocha": "^6.0.2",
+    "mocha": "^10.2.0",
     "nyc": "^13.3.0",
     "proxyquire": "^2.1.0",
     "rimraf": "^2.6.3",
