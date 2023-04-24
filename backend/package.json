@@ -9,7 +9,7 @@
   },
   "author": "Taimos GmbH",
   "dependencies": {
-    "aws-sdk": "^2.430.0",
+    "aws-sdk": "^2.1354.0",
     "node-uuid": "^1.4.8"
   },
   "devDependencies": {
